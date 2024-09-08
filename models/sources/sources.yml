@@ -1,0 +1,9 @@
+sources:
+  - name: raw
+    database: elook_commerce
+    schema: raw
+    tables:
+      - name: orders
+      - name: order_items
+      - name: products
+      - name: users
